@@ -18,7 +18,7 @@ Bandit | Reached level 11
 
 - [x] Install Ubuntu 18.04
 - [x] Git and Github 
-<h6>To complete list </h6><br><br>
+<h6>To complete list </h6><br>
 
 - [ ] Get pytesseract working
 - [ ] Complete the webpage for Pokedex API
