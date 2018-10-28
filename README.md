@@ -2,7 +2,7 @@
 
 Hello eveyone! Thanks for checking out this repository.This repository contains the code for the tasks given below.
 
-<h3>The common tasks 
+<h3>The common tasks</h3>
 
 Task         | Name of the file and driectory 
 ------------ | ------------- 
@@ -18,12 +18,12 @@ Bandit | Reached level 11
 
 - [x] Install Ubuntu 18.04
 - [x] Git and Github 
-<h6>To complete list <br><br>
+<h6>To complete list </h6><br><br>
 
 - [ ] Get pytesseract working
 - [ ] Complete the webpage for Pokedex API
 
-<h3>The tasks given to the workshop students 
+<h3>The tasks given to the workshop students </h3>
  
  Task         | Name of the file and driectory 
  ------------ | ------------- 
