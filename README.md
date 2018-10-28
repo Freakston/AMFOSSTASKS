@@ -2,6 +2,7 @@
 
 Hello eveyone! Thanks for checking out this repository.This repository contains the code for the tasks given below.
 
+The task list given - [Google Document](https://docs.google.com/document/d/1JWL3YxBHTPaVITfda4wVuuT9-7xuTdDralVpbtNjVvM/)
 <h3>The common tasks</h3>
 
 Task         | Name of the file and driectory 
