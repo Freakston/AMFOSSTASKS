@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<style>
+body{
+    position: absolute;
+    width: 436px;
+    height: 84px;
+    left: 502px;
+    top: 328px;
+
+    background: #E5E5E5;;
+
+    position: absolute;
+    width: 580px;
+    height: 750px;
+    left: calc(50% - 580px/2 + 1px);
+    top: calc(50% - 750px/2);
+
+    background: rgba(178, 138, 135, 0.69);
+    }
+
+h1{
+    position: absolute;
+    width: 512px;
+    height: 59px;
+    left: calc(50% - 512px/2);
+    top: calc(50% - 59px/2 - 284.5px);
+
+    font-family: Quattrocento;
+    font-style: normal;
+    font-weight: normal;
+    line-height: normal;
+    font-size: 48px;
+    text-align: center;
+
+    color: #000000;}
+#rect_1{
+    position: absolute;
+    width: 580px;
+    height: 750px;
+    left: calc(50% - 580px/2 + 1px);
+    top: calc(50% - 750px/2);
+
+    background: rgba(178, 138, 135, 0.69);
+}
+
+#rect_2{
+   position: absolute;  
+    width: 474px;
+    height: 271px;
+    left: calc(50% - 474px/2);
+    top: calc(50% - 271px/2 - 90.5px);
+
+    background: #C4C4C4;
+}
+
+#name{
+    position: absolute;
+    width: 400px;
+    height: 51px;
+    left: calc(50% - 400px/2);
+    top: calc(50% - 51px/2 - 63.5px);
+
+    background: #F8ECEC;
+    }
+#pk_name{
+    position: absolute;
+    width: 292px;
+    height: 31px;
+    left: 569px;
+    top: 379px;
+
+    font-family: Quattrocento;
+    font-style: normal;
+    font-weight: bold;
+    line-height: normal;
+    font-size: 30px;
+    text-align: center;
+
+    color: #000000;
+
+}    
+</style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+    <div id='rect_1'>
+        <div id="rect_2"></div>
+        </div>
+    
+    <form id="form1">
+    <p id="pk_name">Pokemon Name -<br>
+    <input id="name" type="text" name="Pokemon name" size="60">
+    <br>
+    <input id="search" type="submit" name="search" onclick="search()">
+    </form>
+    <h1> Minimal Pokidex</h1>
+</body>
+<script src="test.js">
+</script>   
+</html>
