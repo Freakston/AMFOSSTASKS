@@ -12,7 +12,7 @@ CS50         | Watched <br>1. Python <br>2. Javascript <br>3. Episode 1 & 2
 Begining with Python |  [Bubble Sort](AMFOSS%20TASKS/Bubble%20sorting.py)<br>[Palindrome check](AMFOSS%20TASKS/Palindrome%20final.py)
 Google Scraping using Python | [Scrapping](AMFOSS%20TASKS/Scrapping%20final.py)
 Login Page ( With validation of Username and password) | [Login page](AMFOSS%20TASKS/Login)
-Pokedex | [JS ready]()
+Pokedex | [JS ready](/AMFOSS%20TASKS/Pokemon%20test)
 Captcha breaking | [Note - Not yet completed](AMFOSS%20TASKS/captcha.py)
 Bandit | Reached level 11
 
