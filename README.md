@@ -29,11 +29,10 @@ Bandit | Reached level 11
  Task         | Name of the file and driectory 
  ------------ | ------------- 
  Twitter Bot  | [Bot folder](/Twitter%20Bot)
- Gmail (using SMTPS) | [Gmail Script]()
+ Gmail (using SMTPS) | [Gmail Script](/Gamil.py)
   Telegram Bot | [To be uploaded] 
 
 - [ ] Get approval app approval from Twitter
-- [ ] Upload the Gmail Script 
 - [ ] Upload the Telegram Script 
 
 Name - Suraj K Suresh <br>
